@@ -6,8 +6,8 @@ Basé à **Lomé, Togo**, je suis disponible pour un **emploi**, un **stage** ou
 
 ## À propos de moi
 
-- 🎓 Titulaire d'une **Licence**
-- 📊 Intéressé par la **finance**, le **commerce** et le secteur des **ONG**
+- 🎓 Titulaire d'une **Licence en Economie**
+- 📊 Intéressé par la **finance**, le **commerce**, les **startup** et le secteur des **ONG**
 - 🧹 Compétences : nettoyage et préparation des données, analyse exploratoire, statistiques descriptives et visualisation
 - 🌱 En apprentissage continu, avec l'objectif de construire des projets concrets et reproductibles
 
