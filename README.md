@@ -1,4 +1,4 @@
-# Bonjour, je suis Kodjo Joel 👋
+# Salut, je suis Kodjo Joel 👋
 
 ### Analyste de données junior | Excel · Power BI · SQL
 
