@@ -35,9 +35,9 @@ Je souhaite intégrer une équipe où je pourrai contribuer à la qualité des d
 
 ## Me contacter
 
-- LinkedIn : **[à ajouter]**
-- E-mail : **[à ajouter]**
+- LinkedIn : **joel kodjo**
+- E-mail : **kodjojoel20@gmail.com**
 
 ---
 
-*Ce profil évoluera avec mes projets, apprentissages et certifications.*
+*Mon profil évoluera avec mes projets, apprentissages et certifications.*
